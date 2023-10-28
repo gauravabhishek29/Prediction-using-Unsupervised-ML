@@ -1,4 +1,4 @@
-# Prediction-using-Unsupervised-ML
+# TASK 2: Prediction using Unsupervised ML
 # Iris Dataset Clustering using K-Means
 
 This project performs K-Means clustering on the Iris dataset to group the data points into distinct clusters. The implementation is done in Python, utilizing the scikit-learn library for machine learning and data analysis.
